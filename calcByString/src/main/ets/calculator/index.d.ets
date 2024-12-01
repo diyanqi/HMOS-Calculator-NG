@@ -1,0 +1,1 @@
+export type calculateByString = (expression: string) => number;

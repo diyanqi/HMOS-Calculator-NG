@@ -1,0 +1,9 @@
+{
+  "name": "@harmony_class_room/calc_by_string",
+  "version": "0.0.2",
+  "description": "一款字符串计算工具。传入字符串表达式，输出number类型的计算结果",
+  "main": "Index.ets",
+  "author": "Harmony自习室",
+  "license": "MIT",
+  "dependencies": {}
+}
